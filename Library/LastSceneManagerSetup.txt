@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Warlock/Scenes/nav.unity
+  isLoaded: 1
+  isActive: 1
